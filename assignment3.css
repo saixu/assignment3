@@ -1,1 +1,17 @@
 /*styles for assignment 3*/
+#myform label{
+	display: block;
+	margin-bottom: 10px;
+}
+#myform{
+	border: 1px solid black;
+}
+#myform{
+	padding: 30px;
+}
+#myform{
+	margin: 10px;
+}
+h3{
+	margin-left: 45%;
+}
